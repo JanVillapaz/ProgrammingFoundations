@@ -24,3 +24,7 @@ Not enough to design, maintain and extend.
 |                  |           | Strategy |
 |                  |           | Template |
 |                  |           | Visitor |
+
+### Benefits
+- Not reinvent the wheels
+- Building resilient code
